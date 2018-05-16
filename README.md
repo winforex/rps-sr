@@ -1,1 +1,1 @@
-HTML project creating Rock, Paper Scissors.
+HTML, CSS, Javascript Project: Rock, Paper, Scissors
